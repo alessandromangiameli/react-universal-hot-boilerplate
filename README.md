@@ -1,4 +1,4 @@
-# React Universal SSR Boilerplate
+# React Universal Hot Boilerplate
 
 ```
 npm run start:dev
