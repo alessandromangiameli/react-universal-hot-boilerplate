@@ -17,4 +17,6 @@ const render = () => {
 
 render(App)
 
-if (module.hot) module.hot.accept('./components/App/App', () => { render(App) })
+if (module.hot) module.hot.accept('./components/App/App', () => {
+	render(require('./components/App/App'))
+})

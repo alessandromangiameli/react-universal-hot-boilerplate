@@ -1,1 +1,1431 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fresh-",
+				"fresh-js"
+			],
+			[
+				"tw",
+				"tweens"
+			],
+			[
+				"sta",
+				"statusCode"
+			],
+			[
+				"Pro",
+				"Promise	ES6 Promise"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"reset",
+				"resetLevels"
+			],
+			[
+				"default",
+				"defaultText"
+			],
+			[
+				"prope",
+				"property"
+			],
+			[
+				"prop",
+				"Property"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"nod",
+				"nodeWithChildren"
+			],
+			[
+				"pro",
+				"prova"
+			],
+			[
+				"pa",
+				"pathData"
+			],
+			[
+				"slider",
+				"sliderId"
+			],
+			[
+				"def",
+				"defaultValue"
+			],
+			[
+				"sett",
+				"propertySettings"
+			],
+			[
+				"propert",
+				"property"
+			],
+			[
+				"play",
+				"playbackState"
+			],
+			[
+				"so",
+				"scrollLeft"
+			],
+			[
+				"pla",
+				"playbackState"
+			],
+			[
+				"r",
+				"rootScope"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"toggle",
+				"toggle-visibility"
+			],
+			[
+				"level",
+				"levels"
+			],
+			[
+				"ge",
+				"getLevelVisibility"
+			],
+			[
+				"set",
+				"set-current-time-to-keypoint"
+			],
+			[
+				"key",
+				"keypointPosition"
+			],
+			[
+				"scrollTo",
+				"scrollToCurrentTime"
+			],
+			[
+				"lvel",
+				"levelDuration"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"twee",
+				"tween"
+			],
+			[
+				"anima",
+				"animationSettings"
+			],
+			[
+				"slu",
+				"sluggedName"
+			],
+			[
+				"inpu",
+				"inputValue"
+			],
+			[
+				"prevP",
+				"prevProp"
+			],
+			[
+				"from",
+				"fromProperty"
+			],
+			[
+				"to",
+				"toProperty"
+			],
+			[
+				"pop",
+				"properties"
+			],
+			[
+				"rotATION",
+				"rotationZ"
+			],
+			[
+				"dura",
+				"duration"
+			],
+			[
+				"min",
+				"minProperties"
+			],
+			[
+				"fix",
+				"fixPosition"
+			],
+			[
+				"old",
+				"oldDuration"
+			],
+			[
+				"immedia",
+				"immediateRender"
+			],
+			[
+				"on",
+				"onUpdatePosition"
+			],
+			[
+				"twe",
+				"tweenData"
+			],
+			[
+				"onUp",
+				"onupdatePreview"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tweenSelec",
+				"tweenSelectedDuration"
+			],
+			[
+				"valid",
+				"validation"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"valida",
+				"validate"
+			],
+			[
+				"relink",
+				"relink-selected"
+			],
+			[
+				"pr",
+				"propertySelected"
+			],
+			[
+				"leel",
+				"levels"
+			],
+			[
+				"hist",
+				"historyStates"
+			],
+			[
+				"le",
+				"levels"
+			],
+			[
+				"extr",
+				"extractedName"
+			],
+			[
+				"re",
+				"regex"
+			],
+			[
+				"0",
+				"01"
+			],
+			[
+				"Keyp",
+				"keypoints"
+			],
+			[
+				"conte",
+				"contextMenuX"
+			],
+			[
+				"COn",
+				"contextMenuX"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"proj",
+				"projectData"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"upload",
+				"uploadSVG"
+			],
+			[
+				"sv",
+				"svgString"
+			],
+			[
+				"wrap",
+				"wrapperHeight"
+			],
+			[
+				"svg",
+				"svgHeight"
+			],
+			[
+				"wrapper",
+				"wrapperHeight"
+			],
+			[
+				"wp",
+				"wrapperHeight"
+			],
+			[
+				"wrapp",
+				"wrapperHeight"
+			],
+			[
+				"curren",
+				"currentTime"
+			],
+			[
+				"get",
+				"getJSRef"
+			],
+			[
+				"Tween",
+				"tweenSelected"
+			],
+			[
+				"scro",
+				"scrollPositions"
+			],
+			[
+				"scroll",
+				"scrollPositions"
+			],
+			[
+				"Timelin",
+				"TimelineApi"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"second",
+				"secondsToPixel"
+			],
+			[
+				"sr",
+				"scrollLeft"
+			],
+			[
+				"pixel",
+				"pixelToSeconds"
+			],
+			[
+				"client",
+				"clientWidth"
+			],
+			[
+				"context",
+				"contextMenu"
+			],
+			[
+				"dur",
+				"durationIndex"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"tween",
+				"tweenSelected"
+			],
+			[
+				"Levels",
+				"LevelsApi"
+			],
+			[
+				"event",
+				"eventType"
+			],
+			[
+				"getDe",
+				"getDefaultTweenData"
+			],
+			[
+				"veloc",
+				"velocity"
+			],
+			[
+				"acti",
+				"activeWidth"
+			],
+			[
+				"activ",
+				"activeLeft"
+			],
+			[
+				"we",
+				"wrapperWidth"
+			],
+			[
+				"preview",
+				"previewZoomLevel"
+			],
+			[
+				"Timeline",
+				"TimelineMethods"
+			],
+			[
+				"Level",
+				"LevelMethods"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"Api",
+				"ApiMethods"
+			],
+			[
+				"entry",
+				"entry-dev"
+			],
+			[
+				"en",
+				"entry-dev"
+			],
+			[
+				"n",
+				"newValue"
+			],
+			[
+				"Properties",
+				"PropertiesMethods"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"tabs",
+				"tabsCtrl"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"taks",
+				"tasks"
+			],
+			[
+				"preven",
+				"preventDefault"
+			],
+			[
+				"FUN",
+				"function"
+			],
+			[
+				"test",
+				"testWrapper"
+			],
+			[
+				"li",
+				"library"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"angula",
+				"angular-raf"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"colle",
+				"collection__nav"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"ou",
+				"output"
+			],
+			[
+				"sege",
+				"segments"
+			],
+			[
+				"param",
+				"param1"
+			],
+			[
+				"seg",
+				"segments"
+			],
+			[
+				"se",
+				"segments"
+			],
+			[
+				"rotat",
+				"rotateTo"
+			],
+			[
+				"rotate",
+				"rotateSegmentsToAngle"
+			],
+			[
+				"segm",
+				"segments"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/server.js",
+			"settings":
+			{
+				"buffer_size": 1448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/client.js",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 598,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/PlayersMenu/PlayersMenu.jsx",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/Header/Header.jsx",
+			"settings":
+			{
+				"buffer_size": 502,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/react-universal-hot-boilerplate",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/components",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/data",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/views",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/views/Player"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/package.json",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/views/index.ejs",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/client.js",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/components/App/App.jsx",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/components/Layout/Layout.jsx",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/views/Player/Player.jsx",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/data/Players.js",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/src/server.js",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/webpack.config.js",
+		"/C/xampp/htdocs/react-universal-hot-boilerplate/react-universal-hot-boilerplate.sublime-project",
+		"/C/xampp/htdocs/fresh-studio/src/entry-dev.js",
+		"/C/xampp/htdocs/fresh-studio/.travis.yml",
+		"/C/xampp/htdocs/fresh-studio/deploy.sh",
+		"/C/xampp/htdocs/fresh-studio/_resources/Todo.todo",
+		"/C/xampp/htdocs/fresh-studio/webpack.config.babel.js",
+		"/C/xampp/htdocs/fresh-studio/package.json",
+		"/C/xampp/htdocs/fresh-studio/client.js",
+		"/C/xampp/htdocs/fresh-studio/src/js/run.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-6w_qub/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-z9_6tx/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-vy1xtf/post-receive",
+		"/C/xampp/htdocs/fresh-studio/src/data/labels.json",
+		"/C/xampp/htdocs/fresh-studio/src/js/components/_views/fresh-studio/fresh-studio.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-nq6fi3/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-4cqayo/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-1n_lx7/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-6ub6t3/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-rt_w82/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-nqnhn_/studio.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-wmvemh/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-7t9xlo/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-ap40ig/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-rafmgi/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-280h51/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-ku01xz/post-receive",
+		"/C/Users/l.migliorero/.ssh/id_rsa",
+		"/C/xampp/htdocs/fresh-studio/dist/index.html",
+		"//javastg.bitmama.it/shared/webapps/test2/lazyload/index.html",
+		"/C/xampp/htdocs/fresh-studio/deploy.cmd",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-yy8kki/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-os2g8d/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-1nwl0z/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-3rj424/hosts",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-_qg5nn/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-6x18gw/staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-2cr_ff/staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-8ciwyj/hosts",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-xpszqs/index.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-9seldh/api.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-lpjxzi/fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-vteea3/index.php",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-1_hxcz/api.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-p24g6v/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-mmmow3/studio.staging.fresh-js.com.conf",
+		"/C/Users/l.migliorero/Desktop/Fiat - Scopri tutti gli sconti e le offerte disponibili.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-qadcez/index.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-ddqilx/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-ly3wr4/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-goqk84/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-p8_nfu/hosts",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-mh97dn/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-gxgwl0/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-uhdel1/post-receive",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-69valg/post-receive",
+		"/C/Users/l.migliorero/.gitconfig",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-w77tao/post-receive",
+		"/C/xampp/htdocs/fresh-studio/src/js/services/api/public-api.js",
+		"/C/xampp/htdocs/fresh-studio/src/js/const.js",
+		"/C/xampp/htdocs/fresh-studio/const.js",
+		"/C/xampp/htdocs/fresh-api/package.json",
+		"/C/xampp/htdocs/fresh-studio/src/index.ejs",
+		"/C/xampp/htdocs/fresh-studio/fresh-studio.sublime-project",
+		"/C/Users/l.migliorero/Google Drive/Lavoro/Impostazioni Software/Ubuntu commands.txt",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-dtt9sw/pm2.config.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-cpbahl/api.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-dpjomy/hosts",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-cnchn3/pm2",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-riiniu/pm2.config.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-wwn_cl/api.staging.fresh-js.com.config.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-gqmhzl/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-o7urk6/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-wg459j/index.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-d67cga/api.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-2f1v8g/studio.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-12gbam/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-2k3c53/staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-dtecu7/index.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-9ga5hs/pm2.config.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-49dbj8/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-mbdkfm/pm2.config.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-x4q1s1/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-h_w6yv/index.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-f87bzd/index.html",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-1x2j0p/api.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-3_po69/api.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-h_9umk/fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-6dwjpz/staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-_ymidh/studio.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-5ufknr/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-nspy62/studio.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-l56fs6/studio.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-insqqc/api.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-_2l3ye/fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-zmb_w1/api.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-adcizv/staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-3tynnx/studio.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-3si66y/api.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-ehnqy7/api.staging.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-gajy1h/fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-c_6xfw/staging.fresh-js.com.conf",
+		"/C/Users/l.migliorero/.bashrc",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-80axe3/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-q0cvgg/api.fresh-js.com.conf",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-8xn_2k/pm2.config.js",
+		"/C/Users/l.migliorero/.ssh/id_rsa.pub",
+		"/C/xampp/htdocs/fresh-studio/node_modules/include-version/bin/include-version.js",
+		"/C/xampp/htdocs/fresh-studio/server.js",
+		"/C/xampp/htdocs/fresh-studio/test/index.html",
+		"/C/xampp/htdocs/fresh-studio/test/functional.spec.js",
+		"/C/xampp/htdocs/fresh-studio/src/js/components/_views/landing/landing.js",
+		"/C/xampp/htdocs/fresh-studio/src/js/config.js",
+		"/C/xampp/htdocs/fresh-studio/dist/Fresh-Studio.min.js",
+		"/C/xampp/htdocs/fresh-studio/src/scss/main.scss",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-50fu7h/pm2.config.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-9k8qs7/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-hetc8g/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-ss0fds/index.js",
+		"/c/users/l6872~1.mig/appdata/local/temp/rsub-qm_3su/index.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 282.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\fresh-studio\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\js",
+			"C:\\xampp\\htdocs\\fresh-studio\\src",
+			"C:\\xampp\\htdocs\\fresh-studio\\node_modules\\fresh-js\\src",
+			"<open folders>",
+			"C:\\xampp\\htdocs\\fresh-studio\\src",
+			"C:\\xampp\\htdocs\\fresh-studio",
+			"<current file>",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\components",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\components",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\,*.js",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\*.js",
+			"*.js",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\scss",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\scss",
+			"C:\\xampp\\htdocs\\gulp-static-website-boilerplate\\src",
+			"C:\\xampp\\htdocs\\gulp-static-website-boilerplate\\gulp\\src",
+			"C:\\xampp\\htdocs\\gulp-static-website-boilerplate\\gulp",
+			"C:\\xampp\\htdocs\\AlfaRomeo_2016\\middleman\\source\\assets\\javascripts\\modules",
+			"C:\\xampp\\htdocs\\AlfaRomeo_2016",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\js",
+			"C:\\xampp\\htdocs\\fresh-studio\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\",
+			"C:\\xampp\\htdocs\\fresh-studio\\src\\scss",
+			"C:\\xampp\\htdocs\\fresh-studio\\src",
+			"C:\\xampp\\htdocs\\fresh-studio",
+			"C:\\xampp\\htdocs\\Lancia_2016\\Resources\\css\\source\\guidelines\\",
+			"C:\\xampp\\htdocs\\Lancia_2016\\Resources\\css\\source\\",
+			"C:\\xampp\\htdocs\\Lancia_2016\\Resources\\css",
+			"C:\\xampp\\htdocs\\Lancia_2016\\_doc\\Resources\\css",
+			"C:\\xampp\\htdocs\\Lancia_2016\\_doc\\mya\\Resources\\css",
+			"D:\\Work\\Localweb\\centrolametista.com\\include",
+			"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\500X-LigthBox\\src\\js",
+			"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\sds-interactions-development\\src\\styles",
+			"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\sds-interactions-development\\src",
+			"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\sds-interactions-development\\build"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"babel-polyfill",
+			"https://github.com/wkwiatek/react-hot-loader-minimal-boilerplate",
+			"config.api",
+			"!config.isProduction",
+			"!config.isStatic",
+			"develop",
+			"version",
+			"staging",
+			"test.jpg",
+			"./",
+			"/${API}",
+			"define",
+			"my-local-ip",
+			"json-string",
+			"dotenv",
+			"ExtractTextPlugin",
+			"Commons",
+			"public_html",
+			"public-html",
+			"public_html",
+			"api",
+			"stage",
+			"md-no-ink",
+			"$mdConstant",
+			"32",
+			"warn",
+			" 'keydown'",
+			" addEventListener('keydown',",
+			"'input[type=\\'text\\']'",
+			"'landing'",
+			"('landing')",
+			"$state.go('landing')",
+			"document).ready",
+			"ready",
+			"HtmlWebpackPlugin",
+			"'&",
+			"createLevelsTimeline",
+			"setLevelVisibility",
+			"visibi",
+			"this.Collections.clipboard.properties",
+			"visibili",
+			"flip",
+			"preventDefault",
+			"this.$scope.$on(\"space\"",
+			"this.$scope.$on('space'",
+			"'space'",
+			"s",
+			"on(\"space\"",
+			"space",
+			"input",
+			"request",
+			"options",
+			"resetLevels",
+			"setLevelVisibility",
+			"reset()",
+			"resetLevels",
+			"'",
+			"labels",
+			"opacity",
+			"enabled",
+			"easing",
+			"start",
+			"value:",
+			"value",
+			"position",
+			"'",
+			"values",
+			"presets",
+			"zoom.step",
+			"zoom",
+			"250",
+			"class=\"flex-1\"",
+			"[0]",
+			"hideSelectedAction",
+			"hide-selected-action",
+			"$ctrl.hideSelectedAction",
+			"hideSelectedAction",
+			"50",
+			"scroll-to-t",
+			"scroll-to-",
+			"level--hover",
+			":hover {",
+			"level--hover {",
+			":hover {",
+			".level",
+			"scope",
+			"\"y\":",
+			"\"x\":",
+			"y",
+			"x",
+			"02m",
+			"scaleX",
+			"presets",
+			"labels",
+			"Remove all",
+			"tween:properties",
+			"sidebar:tween",
+			"sidebar:tweens",
+			"sidebar:level",
+			"stage:animation",
+			"sidebar:stage",
+			"sidebar:property",
+			"properties",
+			"keypoint",
+			"tween",
+			"\"'",
+			"level",
+			"PropertySelectController",
+			"all",
+			"level",
+			"paste",
+			"level",
+			"tween",
+			"level",
+			"api",
+			"tween",
+			"accordionContent",
+			"level",
+			"injector",
+			"Collections",
+			"AccordionController",
+			"md-toast-text",
+			"md-toast",
+			"<md-toast>",
+			"md-toast",
+			"callback",
+			"SidebarProperties",
+			"SidebarPropertyController"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cursor-default-on-selected",
+			"$ctrl.cursorDefaultOnSelected",
+			"\"translateY\":",
+			"\"translateX\":",
+			"properties",
+			"tween",
+			"tweens",
+			"level",
+			"stage",
+			"keypoint",
+			"settings.zoomLevel",
+			"settings.previewZoomLevel",
+			"settings.loop",
+			"settings.timeScale",
+			"bg-color-gray-extra-dark",
+			"bg-color-gray-dark",
+			"bg-color-gray-light",
+			"bg-color-secondary",
+			"bg-color-primary",
+			"new-project",
+			"download",
+			"transformOrigin: '50% 50%'",
+			"sidebar:tween",
+			"",
+			"level-tween-property",
+			"levels-tweens",
+			"h-fill",
+			"levels:remove-tweens",
+			"TimelineApi.playbackState",
+			"Collections.getInitialLevelObjectById",
+			"PropertyApi",
+			"PreviewApi",
+			"PublicApi",
+			"SvgApi",
+			"PreviewApi",
+			"TimelineApi",
+			"LevelsApi",
+			"PropertyApi",
+			"PropertiesApi",
+			"TweenApi",
+			"LevelApi",
+			"ApiLevel",
+			"$ctrl.public.download",
+			"public:download",
+			"levels:remove",
+			"timeline:restart",
+			"timeline:ended",
+			"timeline:play",
+			"timeline:pause",
+			"timeline:unstarted",
+			"timeline:timescale-out",
+			"timeline:timescale-in",
+			"timeline:zoom-out",
+			"timeline:zoom-in",
+			"property:close",
+			"property:open",
+			"property:toggle-visibility",
+			"property:toggle",
+			"property:add-default-by-key",
+			"property:delete",
+			"property:select",
+			"property:deselect",
+			"property:add",
+			"properties:add-presets",
+			"properties:delete-by-key",
+			"properties:delete",
+			"properties:toggle",
+			"properties:open",
+			"properties:close",
+			"level:global-deselect",
+			"level:toggle-children-visibility",
+			"level:toggle-level-children-visibility",
+			"level:global-deselected",
+			"level:select",
+			"level:deselect",
+			"level:toggle",
+			"tween:remove",
+			"tween:add-default",
+			"tween:deselect",
+			"tween:select",
+			"tween:toggle",
+			"Collections.levelSelected",
+			"onProperty",
+			"onPropertySelect",
+			"onToggleProperty",
+			"onSelectProperty",
+			"toggleProperty",
+			"openProperty",
+			"closeProperty",
+			"onPropertyDelete",
+			"getPropertyPositionByKey",
+			"getDefaultPropertyByKey",
+			"PropertyMethods",
+			"property",
+			"keypoint",
+			"level-content__handle d-flex",
+			"d-flex\"",
+			"\"d-flex\"",
+			"d-flex ",
+			"getInitialLevelObjectById",
+			"rel",
+			"dist",
+			"hm-tap",
+			"ng-click",
+			"NS",
+			"fresh-studio",
+			"<level-content",
+			"<level-content-properties",
+			"<level-content-property",
+			"<level-header",
+			"<level-header-property",
+			"<levels-content",
+			"<levels-header",
+			"<level-content",
+			"Resources/img/sprites/icons-social.svg",
+			"/Resources",
+			"Resources",
+			"img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								955,
+								955
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/client.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/PlayersMenu/PlayersMenu.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/Header/Header.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-universal-hot-boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"property",
+				"----Node Modules-----\\lodash\\property.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "jud",
+		"selected_items":
+		[
+			[
+				"jud",
+				"C:\\xampp\\htdocs\\judo-heroes-2\\judo-heroes-2.sublime-project"
+			],
+			[
+				"fc",
+				"C:\\xampp\\htdocs\\FCA_ddp\\FCA_ddp.sublime-project"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\fresh-studio\\fresh-studio.sublime-project"
+			],
+			[
+				"fres",
+				"C:\\xampp\\htdocs\\fresh-api\\fresh-api.sublime-project"
+			],
+			[
+				"api",
+				"C:\\xampp\\htdocs\\fresh-api\\fresh-api.sublime-project"
+			],
+			[
+				"frs",
+				"C:\\xampp\\htdocs\\fresh-api\\fresh-api.sublime-project"
+			],
+			[
+				"fca",
+				"C:\\xampp\\htdocs\\FCA_ddp\\FCA_ddp.sublime-project"
+			],
+			[
+				"fre",
+				"C:\\xampp\\htdocs\\fresh-api\\fresh-api.sublime-project"
+			],
+			[
+				"fresh",
+				"C:\\xampp\\htdocs\\fresh\\Fresh.sublime-project"
+			],
+			[
+				"fresh-s",
+				"C:\\xampp\\htdocs\\fresh-studio\\fresh-studio.sublime-project"
+			],
+			[
+				"bell",
+				"C:\\xampp\\htdocs\\bellavista-landing\\bellavista-landing.sublime-project"
+			],
+			[
+				"love",
+				"C:\\xampp\\htdocs\\loveisreal.it\\loveisreal.sublime-project"
+			],
+			[
+				"frsh",
+				"C:\\xampp\\htdocs\\fresh\\Fresh.sublime-project"
+			],
+			[
+				"FC",
+				"C:\\xampp\\htdocs\\FCA_ddp\\FCA_ddp.sublime-project"
+			],
+			[
+				"go",
+				"C:\\xampp\\htdocs\\goodyear\\goodyear.sublime-project"
+			],
+			[
+				"l",
+				"C:\\xampp\\htdocs\\lorenzomigliorero.com\\lorenzomigliorero.sublime-project"
+			],
+			[
+				"es",
+				"C:\\xampp\\htdocs\\es6-static-website-boilerplate\\es6-static-website-boilerplate.sublime-project"
+			],
+			[
+				"es6",
+				"C:\\xampp\\htdocs\\es6-static-website-boilerplate\\es6-static-website-boilerplate.sublime-project"
+			],
+			[
+				"lo",
+				"C:\\xampp\\htdocs\\lorenzomigliorero.com\\lorenzomigliorero.sublime-project"
+			],
+			[
+				"god",
+				"C:\\xampp\\htdocs\\goodyear\\goodyear.sublime-project"
+			],
+			[
+				"good",
+				"C:\\xampp\\htdocs\\goodyear\\goodyear.sublime-project"
+			],
+			[
+				"g",
+				"C:\\xampp\\htdocs\\goodyear\\goodyear.sublime-project"
+			],
+			[
+				"goo",
+				"C:\\xampp\\htdocs\\goodyear-tools\\goodyear-tools.sublime-workspace"
+			],
+			[
+				"cub",
+				"C:\\xampp\\htdocs\\cuboteatro.it\\cuboteatro.sublime-project"
+			],
+			[
+				"stock",
+				"C:\\xampp\\htdocs\\FCA_stocklocator\\stock-locator.sublime-project"
+			],
+			[
+				"crud",
+				"C:\\xampp\\htdocs\\crud-test\\crud.sublime-project"
+			],
+			[
+				"crudt",
+				"C:\\xampp\\htdocs\\crud-test\\crud.sublime-project"
+			],
+			[
+				"s",
+				"C:\\xampp\\htdocs\\FCA_stocklocator\\stock-locator.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,18 +1,38 @@
 const webpack = require('webpack')
 const path = require('path')
 
+let config = {
+	isDevelopment: process.env.NODE_ENV === 'development',
+    isProduction: process.env.NODE_ENV === 'production'
+}
+
 module.exports = {
-	devtool: 'source-map',
+	target: 'web',
+	devtool: config.isDevelopment ? 'source-map' : '',
 	entry: {
-		'bundle': [
-			'babel-polyfill',
-			'react-hot-loader/patch',
-			'./src/client'
-		]
+		'bundle': (() => {
+
+			let files = []
+
+			if (config.isDevelopment) {
+				files.push(
+					'react-hot-loader/patch',
+					'webpack-hot-middleware/client'
+				)	
+			}
+
+			files.push(
+				path.resolve(__dirname, 'src', 'client.js')
+			)
+
+			return files
+
+		})()
 	},
 	output: {
 		path: path.resolve(__dirname, 'dist', 'js'),
-		filename: '[name].js'
+		filename: '[name].js',
+		publicPath: '/js/'
 	},
 	module: {
 		rules: [
@@ -25,5 +45,8 @@ module.exports = {
 	},
 	resolve: {
 		extensions: ['.js', '.jsx']
-	}
+	},
+	plugins: [
+		new webpack.HotModuleReplacementPlugin()
+	]
 }
