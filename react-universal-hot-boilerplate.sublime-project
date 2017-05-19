@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "--------Settings--------",
+			"folder_exclude_patterns": ["*"],
+			"file_exclude_patterns": []
+		},
+		{
+			"path": "node_modules",
+			"file_exclude_patterns": ["*.sublime-project", ".gitignore", ".jscsrc", ".sublime-gulp.cache", "gulpfile.js", "package.json", "todo", "*.zip", "*.psd", "*.pdf"],
+			"folder_exclude_patterns": ["node_modules", ".sass-cache", "_doc"],
+			"name": "----Node Modules-----"
+		},
+		{
+			"path": "src",
+			"file_exclude_patterns": ["*.sublime-project", ".gitignore", ".jscsrc", ".sublime-gulp.cache", "gulpfile.js", "package.json", "todo", "*.zip", "*.psd", "*.pdf"],
+			"folder_exclude_patterns": ["node_modules", ".sass-cache", "_doc"],
+			"name": "----Development-----"
+		},
+		{
+			"path": "dist",
+			"file_exclude_patterns": ["*.sublime-project", ".gitignore", ".jscsrc", ".sublime-gulp.cache", "gulpfile.js", "package.json", "todo", "*.zip", "*.psd", "*.pdf"],
+			"folder_exclude_patterns": ["node_modules", ".sass-cache", "_doc", "admin"],
+			"name": "------Production------"
+		}
+	]
+}
