@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Players from '../../data/Players';
-import PlayersMenu from '../PlayersMenu/PlayersMenu';
+// import PlayersMenu from '../PlayersMenu/PlayersMenu';
+import PlayersMenuContainer from '../PlayersMenu/PlayersMenuContainer';
 
 export class Header extends Component {
 	render() {
@@ -14,7 +15,7 @@ export class Header extends Component {
 						</li>
 						<li>
 							<Link to="/players">Players</Link>
-							<PlayersMenu></PlayersMenu>
+							<PlayersMenuContainer></PlayersMenuContainer>
 						</li>
 					</ul>
 				</nav>
