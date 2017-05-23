@@ -1,28 +1,21 @@
 import {connect} from 'react-redux'
 import PlayersMenu from './PlayersMenu'
+import addPlayer from '../../actions/addPlayer';
 
 const container = (players)  => {
 	return players;
 }
 
-const addPlayer = {
-	type : 'ADD_PLAYER',
-	data: {
-		name : 'Player'
-	}
-}
-
 const mapStateToProps = (state) => {
-	console.log(state);
 	return {
-		players : state.players
+		players : container(state.players)
 	}
 }
 
 const mapDispatchToProps = (dispatch) => {
 	return {
 		onAddPlayer : () => {
-			dispatch(addPlayer);
+			dispatch(new addPlayer());
 		}
 	}
 }
