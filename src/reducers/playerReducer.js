@@ -1,4 +1,4 @@
-const players = [
+const initialState = [
 	{
 
 		name: 'Player1',
@@ -6,11 +6,6 @@ const players = [
 
 	}
 ];
-
-const initialState = {
-	players : players
-}
-
 
 function playerReducer(state = initialState, action) {
 
@@ -22,9 +17,9 @@ function playerReducer(state = initialState, action) {
 
 		case 'ADD_PLAYER':
 			let newState = Object.assign({}, state);
-			let id = state.players.length + 1
-			newState.players = [
-				...state.players,
+			let id = state.length + 1
+			newState = [
+				...state,
 				{
 					name : 'new player' + id,
 					id : id

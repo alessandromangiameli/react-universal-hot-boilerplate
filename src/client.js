@@ -5,9 +5,10 @@ import { BrowserRouter as Router } from 'react-router-dom'
 import { createStore} from 'redux'
 import { Provider } from 'react-redux'
 import App from './components/App/App'
-import playerReducer from './reducers/playerReducer'
+// import playerReducer from './reducers/playerReducer'
+import reducer from './reducers/reducer';
 
-let store = createStore(playerReducer);
+let store = createStore(reducer);
 
 const render = () => {
 	ReactDOM.render(
